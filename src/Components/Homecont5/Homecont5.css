@@ -1,0 +1,145 @@
+.Homecont5{
+    
+ font-family: "Inter", sans-serif;
+
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+background-color: #F4F8FC;
+
+}
+.Homecont5 h3{
+font-weight: 600;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #022B69;
+text-align: center;
+padding-top: 54px;
+padding-bottom: 66px;
+}
+.card-cont5{
+    display: flex;
+    gap: 16px;
+    margin-right: 77px;
+    margin-left: 63px;
+    padding-bottom: 93px;
+}
+
+.card5{
+    
+    background-color: #FFFFFF;
+    width: 434px;
+    box-shadow: 0px 0px 1px 0px #0000000A;
+
+box-shadow: 0px 0px 2px 0px #0000000F;
+
+box-shadow: 0px 4px 8px 0px #0000000A;
+
+border-radius: 5px;
+
+
+}
+
+.card5 h4{
+font-weight: 600;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 44px;
+margin-bottom: 19px;
+text-align: center;
+color: #3D3D46;
+}
+.card5 h5{
+font-weight: 600;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #022B69;
+ margin-bottom: 27px;
+ text-align: center;
+
+}
+
+.card5 p{
+
+  width: 381px; 
+margin-right: 24px;
+margin-left: 29px; 
+font-weight: 400;
+font-size: 18px;
+line-height: 1.2;
+letter-spacing: 0%;
+color: #3D3D46;
+text-align: center;
+margin-bottom: 27px;
+}
+
+.btn5{
+    background-color: #0000FF;
+font-weight: 600;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+padding-inline: 111px;
+padding-block: 13px;
+border-style: none;
+border-radius: 50px;
+text-align: center;
+margin-right: 64px;
+margin-left: 65px;
+margin-bottom: 35px;
+cursor: pointer;
+}
+
+.btn5:hover{
+    background-color: #0052cc;
+}
+.span5{
+font-weight: 500;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #3D3D46;
+
+}
+
+.dropdown-header{
+    cursor: pointer;
+    border-Top: 1px solid #B2BED0;
+    padding-Top: 27px;
+    padding-Bottom:37px;
+    padding-Left:29px; 
+padding-right: 45.4px;
+}
+
+.with{
+    display: flex;
+    /* width: 354px; */
+    gap: 19px;
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 34px;
+    margin-right: 39px;
+    margin-bottom: 46px;
+
+
+}
+.with h6{
+    width: 321px;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #3D3D46;
+
+}
+.with img{
+width: 14.819276809692383px;
+height: 14.819276809692383px;
+opacity: 1;
+
+}

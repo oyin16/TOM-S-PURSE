@@ -1,0 +1,85 @@
+.navbar{
+font-family: "Inter", sans-serif;
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.img-div img{
+    max-width: 172px;
+    width: 100%;
+    height: auto;
+    
+
+}
+
+.img-div{
+
+ margin-right: 46px;
+ padding-top: 11px;
+padding-bottom: 10.46px;
+padding-left: 54px;
+    
+}
+
+.nav-smallcont{
+    max-width: 575px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 320px;
+    margin-right: 12px;
+    padding-top: 34px;
+    padding-bottom: 33px;
+}
+
+.nav-links{
+    max-width: 208px;
+     width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+   
+    
+}
+
+.nav-links li{
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+list-style: none;
+color: #0000FF;
+}
+
+.nav-smallcont p{
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+color: #0000FF;
+}
+
+.Get{
+border-radius: 50px;
+background-color:#0000FF;
+width: 140px;
+font-weight: 600;
+font-size: 14px;
+color:#FFFFFF ;
+padding-top: 11px;
+padding-bottom: 10px;
+padding-right: 29px;
+padding-left: 32px;
+border-style: none;
+text-align: center;
+margin-top: 24px;
+margin-bottom: 24px;
+margin-right: 25px;
+}
+

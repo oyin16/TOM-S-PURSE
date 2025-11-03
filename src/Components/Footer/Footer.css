@@ -1,0 +1,158 @@
+
+.Footer{
+font-family: "Inter", sans-serif;
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+background-color: #00164d;
+overflow-x: hidden;
+}
+
+
+.Footer-cont1 h4{
+width:342px ;
+font-weight: 600;
+font-size: 24px;
+line-height: 1.2;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+padding-top: 56px;
+margin-left: 339px;
+margin-right: 364px;
+margin-bottom: 55px;
+}
+
+.footer-btn{
+    width: 213px;
+font-weight: 600;
+font-size: 21.3px;
+line-height: 100%;
+letter-spacing: 0%;
+border-radius: 76.07px;
+background-color: #DDFA00;
+padding-inline: 47px;
+padding-block: 16px;
+margin-right: 442px;
+margin-left: 395px;
+margin-bottom: 143.74px ;
+border: none;
+
+}
+.foot-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 119px;
+    border-top: 1px solid #1AD5FE;
+    border-bottom:  solid #1AD5FE;
+}
+.foot-links{
+    width: 615px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap ;
+    margin-top: 26.44px;
+    /* margin-right: 155px; */
+    /* margin-bottom: 12.56px; */
+
+
+}
+.font-link h6{
+    font-family:'Gotham Pro', sans-serif;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+margin-bottom: 17.9px;
+
+}
+.font-link ul{
+font-family: 'Gotham Pro', sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #1AD5FE;
+}
+.footer-logo{
+    width: 91px;
+    height: 91px;
+    margin-top: 10px;
+    margin-left: 45px;
+}
+
+.font-link ul li{
+    font-family: 'Gotham Pro', sans-serif; ;
+    list-style: none;
+    margin-bottom: 25px;
+}
+.footer-img{
+    display: flex;
+    gap: 9.99px;
+}
+
+.font-link a{
+    text-decoration: none;
+    color: #1AD5FE;
+    cursor: pointer;
+}
+
+.font-link a:hover{
+    cursor: pointer;
+    color: darkblue;
+}
+
+.footer-p{
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 985px;
+color: #FFFFFF;
+margin-top: 18.44px;
+margin-bottom: 32px;
+margin-left: 28px;
+}
+
+
+
+.started {
+    position: relative;
+    padding-inline: 205px;
+    padding-bottom: 46px;
+    background: transparent;
+}
+
+.Footer-cont1 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+
+.box1{
+    display: flex;
+}
+
+.sqr, .sqr2 {
+    height: 221px;
+    width: 221px;
+    display: block;
+    background-color: rgba(11, 36, 52, 0.3);
+;
+}
+
+.sqr2 {
+    width: 206px;
+   background: rgba(14, 52, 79, 0.4);
+
+}
+
+.rect{
+    height: 106px;
+    width: 427px;
+     background-color: rgba(4, 22, 34, 0.3);
+}

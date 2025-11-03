@@ -1,0 +1,116 @@
+.Homecont4{
+
+ font-family: "Inter", sans-serif;
+
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+
+}
+
+.Homecont4 h3{
+    width: 407px;
+font-weight: 600;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #022B69;
+margin-top: 116px;
+margin-left: 319px;
+margin-right: 298px;
+margin-bottom: 18px;
+
+}
+
+.Homecont4 h6{
+    width: 395px;
+font-family: 'Gotham Pro', sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #3D3D46;
+margin-left: 312px;
+margin-right: 317px;
+margin-bottom: 47px;
+
+}
+
+.card-cont4{
+    display: flex;
+gap: 23px;
+margin-bottom: 161px;
+margin-top: 47px;
+margin-left: 78px;
+margin-right: 72px;
+}
+.card4{
+    
+    background-color:  #FFFFFF;
+box-shadow: 0px 0px 1px 0px #0000000A;
+
+box-shadow: 0px 0px 2px 0px #0000000F;
+
+box-shadow: 0px 4px 8px 0px #0000000A;
+width: 276px;
+border-radius: 5px;
+}
+
+.card4 img{
+
+}
+.card4 h5{
+    font-family:'Gotham Pro', sans-serif;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #022B69;
+text-align: center;
+margin-bottom: 31px;
+
+
+}
+.card4 p{
+    width: 234px;
+    height: 57px;
+ font-family:'Gotham Pro', sans-serif;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color:#022B69 ;
+margin-bottom: 65px;
+margin-right: 17px;
+margin-left: 25px;
+
+}
+
+.finance{
+    width: 49.3380241394043px;
+    height: 34.163997650146484px;
+    margin-top: 30.94px;
+    margin-bottom: 17.89px;
+    margin-left: 90.5px;
+    margin-right: 136.31px;
+    
+}
+
+.swift{
+    width: 43.946712493896484 px;
+    height:   42.231197357177734px;
+    margin-top: 25.38px;
+    margin-bottom: 17.89px;
+    margin-left: 102.53px;
+    margin-right: 129.53px;
+}
+
+.save{
+    width: 32.58333206176758px;
+    height:   32.58333206176758px;
+    margin-top: 34.67px;
+    margin-bottom: 17.89px;
+    margin-left: 125.75px;
+    margin-right: 117.67px;
+}
+    
