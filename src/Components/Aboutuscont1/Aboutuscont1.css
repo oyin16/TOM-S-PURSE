@@ -1,0 +1,78 @@
+.Aboutuscont{
+font-family: "Inter", sans-serif;
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+}
+
+.Aboutuscont h3{
+font-weight: 600;
+font-size: 48px;
+line-height: 1.2;
+letter-spacing: 0%;
+text-align: center;
+max-width:  584px;
+margin-top: 110px;
+margin-left: 172px;
+color: rgba(2, 43, 105, 1);
+margin-bottom: 17px;
+}
+
+.Aboutuscont p{
+font-weight: 400;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 1.2;
+letter-spacing: 0%;
+text-align: center;
+color: rgba(61, 61, 70, 1);
+max-width: 572px;
+margin-left: 217px;
+}
+
+.tom-purse{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 169px;
+
+
+}
+
+.tom-text h4{
+font-weight: 500;
+font-size: 24px;
+line-height: 1.2;
+letter-spacing: 0%;
+color: rgba(2, 43, 105, 1);
+margin-top: 221px;
+margin-left: 81px;
+max-width: 255px;
+margin-bottom: 31px;
+}
+
+.tom-text p{
+font-family: 'Gotham Pro, san serif';
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(90, 87, 115, 1);
+;
+max-width: 433px;
+margin-left: 78px;
+max-height: 204px;
+text-align: left;
+
+
+
+}
+.tom-image{
+    margin-top: 80.72px;
+    margin-bottom: 207.88px;
+    margin-right: 192px;
+}
+.tom-image img{
+    max-width: 472px;
+    width: 100%;
+    height: 474px;
+}

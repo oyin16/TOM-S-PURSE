@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router'
 import './Homecont2.css'
 import Invest from '../../assets/Homepage Desktop 05.14.19.png'
 import Save from '../../assets/Later Icon.png'
@@ -10,7 +11,7 @@ const Homecont2 = () => {
         <div className='text-cont2'>
             <h4> Your guide to financial wellness </h4>
             <p> We’ll help you invest, save and spend responsibly for just $1, $2 or $3 per month. No surprise fees, just surprise upgrades</p>
-           <p id='cont2link'> Learn more</p>
+           <p id='cont2link'> <Link to ="/about"> Learn more </Link></p>
            </div>
         <div className='card2'>
             <div className='flex-cont'>

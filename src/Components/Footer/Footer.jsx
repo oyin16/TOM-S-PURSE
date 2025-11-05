@@ -10,7 +10,7 @@ const Footer = () => {
     <div className='Footer'>
       <section className="started">
        <div className="squares">
-        <div className="boxes">
+        <div className="boxes-foot">
           <div className="box1">
             <span className="sqr"></span>
             <span className="sqr2"></span>
@@ -20,11 +20,12 @@ const Footer = () => {
        </div>
          <div className='Footer-cont1'>
             <h4>  Total control, total freedom. Be invested.</h4>
-            <button className='footer-btn'> Get Started</button>
+            <button className='footer-btn' ><Link to ='/About'> Get Started </Link></button>
         </div>
       </section>
         <div className='foot-container'>
-             <img src ={Tom} alt='logo' className='footer-logo'/>
+          <Link to ="/"> 
+             <img src ={Tom} alt='logo' className='footer-logo'/> </Link>
             <div className='foot-links'> 
             <div className='font-link'> 
                 <h6> Company</h6>

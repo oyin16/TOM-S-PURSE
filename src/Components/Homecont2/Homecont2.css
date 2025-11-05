@@ -102,3 +102,14 @@ color: #535461;
 /* padding-right: 20px; */
 
 }
+
+#cont2link a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 1);
+    cursor: pointer;
+}
+
+#cont2link a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}

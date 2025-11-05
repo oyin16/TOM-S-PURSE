@@ -83,3 +83,36 @@ margin-bottom: 24px;
 margin-right: 25px;
 }
 
+.nav-links a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 1);
+    cursor: pointer;
+}
+
+.nav-links a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}
+ 
+.login a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 1);
+    cursor: pointer;
+}
+
+.login a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}
+
+
+.Get a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+}
+
+.Get a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}

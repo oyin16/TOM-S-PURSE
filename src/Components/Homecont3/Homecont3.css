@@ -30,9 +30,6 @@ gap: 185px;
     object-fit: contain;
 }
 
-.text-homecont3{
-
-}
 
 .text-homecont3 h4{
     width: 375px;
@@ -85,3 +82,24 @@ text-align: left;
 margin-top: 25px;
 }
 
+.text-homecont3 a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 1);
+    cursor: pointer;
+}
+
+.text-homecont3 a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}
+
+.footer-btn a{
+    text-decoration: none;
+    color: rgba(2, 43, 105, 1);
+    cursor: pointer;
+}
+
+.footer-btn a:hover{
+    cursor: pointer;
+    color: #1AD5FE;
+}

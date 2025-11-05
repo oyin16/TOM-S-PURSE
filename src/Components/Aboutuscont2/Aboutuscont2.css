@@ -1,0 +1,154 @@
+.Aboutuscont2{
+font-family: "Inter", sans-serif;
+width: 100%;
+max-width: 1024px;
+background-color: rgba(244, 248, 252, 1);
+margin: 0 auto;
+}
+
+.Aboutuscont2 h3{
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: rgba(2, 43, 105, 1);
+width: 439px;
+padding-top: 41px;
+margin-inline: 293px;
+margin-bottom: 46px;
+
+
+
+
+}
+
+  .boxes{
+  position: absolute;
+  top: 10px;                    
+  right: 10px;                  
+  width: 80.13px;
+  height: 80.13px;
+  left: 180px;
+  }
+
+
+.circle {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.circle1 {
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.circle2 {
+  top: 10px;      
+  left: 10px;
+  z-index: 1;
+  opacity: 0.8;  
+  border: 1px solid rgba(2, 43, 105, 0.4)
+}
+
+.card1 h3{
+font-weight: 500;
+font-size: 18px;
+line-height: 1.2;
+letter-spacing: 0%;
+width: 181px;
+color: rgba(2, 43, 105, 1);
+margin-bottom: 22px;
+margin-left: 36px;
+padding-top: 89px;
+text-align: left;
+}
+
+.card1 p{
+font-weight: 400;
+font-size: 14px;
+line-height: 1.2;
+letter-spacing: 0%;
+color: rgba(90, 87, 115, 1);
+padding-bottom: 70px;
+width: 234px;
+margin-left: 36px;
+}
+
+.card1{
+  width: 289px;                  
+  border-radius: 10px;
+  position: relative;           
+  background-color: rgba(255, 255, 255, 1)
+}
+
+.card2-about h3{
+font-weight: 500;
+font-size: 18px;
+line-height: 1.2;
+letter-spacing: 0%;
+width: 181px;
+color: rgba(2, 43, 105, 1);
+margin-bottom: 22px;
+margin-left: 36px;
+margin-top: -50px;
+text-align: left;
+}
+
+.card2-about p{
+font-weight: 400;
+font-size: 14px;
+line-height: 1.2;
+letter-spacing: 0%;
+color: rgba(90, 87, 115, 1);
+padding-bottom: 70px;
+width: 234px;
+margin-left: 36px;
+}
+
+.card2-about{
+  width: 289px;                  
+  border-radius: 10px;
+  position: relative;           
+  background-color: rgba(255, 255, 255, 1)
+
+}
+
+.boxes2{
+    padding-top: 10px;
+    margin-left:193px ;
+
+
+
+}
+
+.box-blue1{
+
+    width: 80.18018341064453px;              
+  height: 80.18018341064453px;
+  background-color: #80e9ff; 
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.box-gray2 {
+  width: 53px;               
+  height: 53px;
+  background-color: #5cc2e0; 
+  border-radius: 50%;
+}
+
+.About-cards{
+    display: flex;
+    gap: 26px;
+    padding-left: 50px;
+    padding-right: 51px;
+    flex-wrap: wrap;
+    padding-bottom: 98px;
+}
+
