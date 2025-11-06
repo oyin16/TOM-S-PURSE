@@ -66,7 +66,7 @@ const Footer = () => {
                 </li>
                 <li> support@tompurse.com </li>
                  <li> +2345685921</li> 
-                  <li style={{width: 209, height: 51}}>  Suite C201, Plot 1245 Adetokunbo Ademola Crescent,Wuse 2, Abuja, FCT</li>
+                  <li style={{width: 209, height: 51}} className='suite'>  Suite C201, Plot 1245 Adetokunbo Ademola Crescent,Wuse 2, Abuja, FCT</li>
                   </ul>
                 </div>
              </div>
