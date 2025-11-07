@@ -77,17 +77,14 @@ text-align: center;
     cursor: pointer;
     color: #1AD5FE;
 }
-
-
-
-
-@media (max-width: 768px) {
+/* responsiveness */
+@media (max-width: 1024px) {
   .homecont1 {
-    flex-direction: column;           
+    flex-direction: column;
     align-items: center;
     text-align: center;
     padding: 40px 20px;
-    gap: 30px;
+    gap: 40px;
   }
 
   .text-cont1 {
@@ -95,39 +92,61 @@ text-align: center;
   }
 
   .text-cont1 h4 {
-    font-size: 26px;
+    font-size: 32px;
     width: 100%;
   }
 
   .text-cont1 p {
+    font-size: 16px;
     width: 100%;
-    font-size: 15px;
-    margin-top: 18px;
+    margin-top: 24px;
     margin-bottom: 32px;
   }
 
   .text-cont1 button {
     width: 160px;
+    font-size: 14px;
+    padding-block: 12px;
+  }
+
+  .img-cont1 {
+    max-width: 300px;
+    height: auto;
+    margin: 0 auto;
+
+  
+}}
+
+@media (max-width: 768px) {
+  .text-cont1 h4 {
+    font-size: 28px;
+  }
+
+  .text-cont1 p {
+    font-size: 15px;
+  }
+
+  .text-cont1 button {
+    width: 150px;
     font-size: 13px;
     padding-block: 10px;
   }
 
   .img-cont1 {
-    max-width: 280px;
-    height: auto;
-    margin: 0;
-    margin-left: 80px;
+    max-width: 260px;
   }
+  .img-cont1 img {
+    margin-left: 39px;
 }
 
 @media (max-width: 480px) {
   .homecont1 {
     padding: 30px 16px;
-    gap: 25px;
+    gap: 30px;
   }
 
   .text-cont1 h4 {
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .text-cont1 p {
@@ -136,22 +155,13 @@ text-align: center;
 
   .text-cont1 button {
     width: 140px;
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .img-cont1 {
-    max-width: 240px;
-    margin-left: 60px;
+    max-width: 220px;
   }
+  .img-cont1 img {
+    margin-left: 39px;
 }
-
-
-
-
-
-
-
-
-
-
-
+} }

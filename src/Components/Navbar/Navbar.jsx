@@ -26,16 +26,16 @@ const Navbar = () => {
             
         </ul>
         <p className='login'><Link to ='/login' >Log in </Link></p>
-         {/* MOBILE REGISTER BUTTON */}
+        
         <button className="mobile-btn">
           <Link to="/signup">Register</Link>
         </button>
       </div>
         
-        {/* DESKTOP GET STARTED BUTTON */}
+      
         <button className='Get'><Link to ='/signup'>Get started </Link></button>
 
-        {/* HAMBURGER ICON */}
+      
          <div className="menu-icon" onClick={toggleMenu}>
         <GiHamburgerMenu size={26} color="#0000FF" />
       </div>

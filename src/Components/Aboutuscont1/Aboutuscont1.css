@@ -21,7 +21,6 @@ margin-bottom: 17px;
 .Aboutuscont p{
 font-weight: 400;
 font-size: 16px;
-leading-trim: NONE;
 line-height: 1.2;
 letter-spacing: 0%;
 text-align: center;
@@ -75,4 +74,118 @@ text-align: left;
     max-width: 472px;
     width: 100%;
     height: 474px;
+}
+/* responsiveness */
+
+@media (max-width: 1030px) {
+  .Aboutuscont h3 {
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .Aboutuscont p {
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .tom-purse {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .tom-text h4 {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .tom-text p {
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-height: none;
+  }
+
+  .tom-image {
+    margin: 0 auto;
+  }
+
+  .tom-image img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }}
+
+
+@media (max-width: 768px) {
+  .Aboutuscont h3 {
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .Aboutuscont p {
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .tom-purse {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .tom-text h4 {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .tom-text p {
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-height: none;
+  }
+
+  .tom-image {
+    margin: 0 auto;
+  }
+
+  .tom-image img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }}
+
+@media (max-width: 480px) {
+  .Aboutuscont h3 {
+    font-size: 24px;
+  }
+
+  .Aboutuscont p {
+    font-size: 13px;
+  }
+
+  .tom-text h4 {
+    font-size: 18px;
+  }
+
+  .tom-text p {
+    font-size: 14px;
+  }
 }

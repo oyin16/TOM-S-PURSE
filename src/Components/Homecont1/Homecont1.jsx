@@ -9,7 +9,7 @@ const Homecont1 = () => {
         <div className='text-cont1'>
             <h4>Save Invest & Earn Anywhere ! </h4>
             <p> Ipsum massa at cursus lacus erat lacus magna volutpat habitasse. Eu mauris et .</p>
-            <button><Link to ="'/signup">  Get Started </Link></button>
+            <button><Link to ="/signup">  Get Started </Link></button>
         </div>
         <div className='img-cont1'>
             <img src ={Iphone} alt='iphone' className=''/>
